@@ -1,0 +1,25 @@
+table {
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+.highlight {
+    background-color: #7FC7FF;
+    color: white;
+}
+
+.usdt {
+    background-color: #9FE2BF;
+    color: white;
+}
